@@ -1,0 +1,13 @@
+prefix=/Users/akshu/Documents/CODES/Projects/Species Prediction/venv
+exec_prefix=/Users/akshu/Documents/CODES/Projects/Species Prediction/venv
+libdir=/Users/akshu/Documents/CODES/Projects/Species Prediction/venv/lib
+sharedlibdir=/Users/akshu/Documents/CODES/Projects/Species Prediction/venv/lib
+includedir=/Users/akshu/Documents/CODES/Projects/Species Prediction/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
