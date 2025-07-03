@@ -18,5 +18,4 @@ Below image shows the classification of all three-
 <!-- convert this link into image -->
 ![Iris Flower Classification](https://miro.medium.com/v2/resize:fit:720/1*YYiQed4kj_EZ2qfg_imDWA.png)
 
-Difference between  Iris setosa and Iris virginica and Iris versicolor flower-
-
+Use the model - [Iris Flower Classification](https://gamakank-species-prediction-app-r2l8fb.streamlit.app/)
