@@ -1,5 +1,6 @@
 pandas
-streamlit
 scikit-learn
-altair<5
+streamlit>=1.40.0
+altair
+
 
